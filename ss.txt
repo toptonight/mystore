@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 sssss:ssssssssddfsssss:sssdsafasjjjjjjjjj
 1sssssss啦dddddd1啦
+=======
+ssdddddsdslflsdlf杀杀
+>>>>>>> mybranch
